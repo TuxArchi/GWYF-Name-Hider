@@ -1,0 +1,8 @@
+/home/archi/opencode/Plugin Gamble whit your friends/github/src/bin/Release/netstandard2.1/GwyfNameHider.deps.json
+/home/archi/opencode/Plugin Gamble whit your friends/github/src/bin/Release/netstandard2.1/GwyfNameHider.dll
+/home/archi/opencode/Plugin Gamble whit your friends/github/src/obj/Release/netstandard2.1/GwyfNameHider.csproj.AssemblyReference.cache
+/home/archi/opencode/Plugin Gamble whit your friends/github/src/obj/Release/netstandard2.1/GwyfNameHider.GeneratedMSBuildEditorConfig.editorconfig
+/home/archi/opencode/Plugin Gamble whit your friends/github/src/obj/Release/netstandard2.1/GwyfNameHider.AssemblyInfoInputs.cache
+/home/archi/opencode/Plugin Gamble whit your friends/github/src/obj/Release/netstandard2.1/GwyfNameHider.AssemblyInfo.cs
+/home/archi/opencode/Plugin Gamble whit your friends/github/src/obj/Release/netstandard2.1/GwyfNameHider.csproj.CoreCompileInputs.cache
+/home/archi/opencode/Plugin Gamble whit your friends/github/src/obj/Release/netstandard2.1/GwyfNameHider.dll
